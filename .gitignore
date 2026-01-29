@@ -15,7 +15,6 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-data/
 
 # Environment variables
 .env
